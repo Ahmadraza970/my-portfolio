@@ -44,7 +44,7 @@ This is my personal portfolio website built to showcase my web development skill
 
 ## ⚙ Installation
 
-git clone https://github.com/USERNAME/portfolio.git
+[https://github.com/Ahmadraza970/my-portfolio.git]
 
 cd portfolio
 
